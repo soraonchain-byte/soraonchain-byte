@@ -55,8 +55,5 @@ Exploring the design of structured digital systems where architecture, logic, na
 ## 👤 Identity
 Sora operates as an independent conceptual architect exploring architecture-first approaches to decentralized systems.
 
-### 🔗 Connect & Deep Dive
 
 
----
-**CASE STUDY:** [SORA ONCHAIN GREAT NINE](https://github.com/soraonchain-byte/great-nine)
