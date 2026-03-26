@@ -1,59 +1,62 @@
-# 🏛️ SORA | Conceptual Architect & Prototype Builder
+# 🏛️ SORA | Web3 Architect & Narrative Conceptualist
 
-Exploring system design, intelligent contracts, and architecture-led experimentation in Web3. 
-> *"Clarity before complexity. Architecture before implementation. Proof before scale."*
+Exploring the intersection of **AI Agents**, **Agentic Economy**, and **Productive RWA** through architecture-led experimentation.
+
+> *"Clarity before complexity. Infrastructure before intelligence. Proof before scale."*
 
 ---
 
-## 🧪 Architecture Lab
-A dedicated workspace documenting architectural exploration, experimental systems, and conceptual frameworks in decentralized technology. This lab focuses on designing structured digital systems before they are scaled into complex implementations.
+## 🧪 The Agentic Lab
+A dedicated workspace for documenting the **Agentic Economy**—designing structured digital systems where autonomous AI agents manage capital, governance, and real-world data.
 
 ### 🎯 Core Focus
-- **System Architecture:** Designing the skeleton of decentralized networks.
-- **Intelligent Contract Design:** Crafting logic that evolves beyond static code.
-- **Decentralized Coordination Models:** Mapping how value and humans interact.
-- **Architecture-led Prototyping:** Building to prove concepts, not just to ship.
+- **Agentic Economy Architecture:** Designing the skeleton of decentralized networks for autonomous actors.
+- **Productive RWA Infrastructure:** Bridging physical assets (Poultry/Equestrian) to on-chain logic using high-performance data ingestion.
+- **Intelligent Contract Design:** Crafting logic that evolves beyond static code into intent-driven structures.
+- **Architecture-led Prototyping:** Building to prove the synergy between infrastructure (RPCs) and application.
 
 ---
 
-## 📂 Architectural Portfolio
+## 📂 Project Portfolio: "The Great Nine"
+*A comprehensive series of architectural case studies and prototypes.*
 
-### 🏛️ Architecture
-*Conceptual system designs and structural frameworks for decentralized technologies.*
-- **Protocol Architecture Models:** Mapping the flow of logic and assets.
-- **Interaction System Diagrams:** Visualizing user-to-protocol relationships.
-- **Trust Model Structures:** Defining how security is distributed.
-- **Contract Logic Frameworks:** Setting the rules before the first line of code.
+### 🥚 Eggplan (RWA + Agentic Data)
+*High-fidelity poultry production data infrastructure.*
+- **Status:** Smart Contract deployed on **Solana Devnet** & Agent Identity verified on **Gnosis Chiado**.
+- **Tech:** Leveraging **GetBlock RPCs** for low-latency data ingestion and heartbeat simulation.
+- **Goal:** Trustless RWA coordination for agricultural micro-economies.
 
-### 🔬 Experiments
-*Prototype implementations used to test architectural concepts.*
-- **Smart Contract Experiments:** Secure implementations on Ethereum (Foundry) & Solana (Anchor).
-- **Prototype Protocol Mechanics:** Testing incentives and liquidity friction.
-- **Experimental System Simulations:** Modeling decentralized coordination in sandboxed environments.
+### 🐎 Vanguard & Saturnus (Equestrian RWA)
+*Conceptualizing micro-economies in the equestrian sector.*
+- **Focus:** Pedigree tracking and value distribution models for high-value biological assets.
+- **Architecture:** Multi-layered trust models for verifiable real-world events.
 
-### 🧠 Research & Thinking
-*Conceptual exploration and analytical notes about emerging Web3 systems.*
-- **Intelligent Contract Frameworks:** Transitioning from "Smart" to "Intelligent".
-- **Web3 Infrastructure Patterns:** Analyzing recurring design motifs in DeFi and RWA.
-- **Future System Design Models:** Designing for the next decade of decentralization.
+### 🛡️ Wallet UX & Security
+*Researching simulation-based security features.*
+- **Focus:** Eliminating clarity gaps during transaction signing for both humans and AI agents.
+
+---
+
+## 🔬 Experimental Frameworks
+- **Smart Contract Labs:** Secure implementations using **Foundry (Ethereum/Gnosis)** & **Anchor (Solana)**.
+- **Node-to-Narrative Models:** Analyzing how reliable RPC infrastructure (like **GetBlock**) acts as the backbone for AI-driven governance.
+- **Intent-driven Structures:** Modeling decentralized coordination in sandboxed environments.
 
 ---
 
 ## 🛰️ Current Explorations
-- **Intelligent Contract Interaction Models**
-- **Architecture-led Protocol Design (The Great Nine Case Studies)**
-- **System-level Thinking in Web3 Infrastructure**
-- **Experimental Governance & Intent-driven Structures**
+- **AI Agent Autonomy:** How agents manage capital under management (CuM).
+- **RWA Data Layers:** Scaling "Productive RWA" through robust node infrastructure.
+- **System-level Thinking:** Designing for the next decade of decentralization and autonomous economy.
 
 ---
 
 ## 🔭 Long-Term Direction
-Exploring the design of structured digital systems where architecture, logic, narrative, and execution align. The aim is not only to build applications, but to understand how decentralized systems can coordinate **intelligence, value, and human interaction.**
+Exploring the design of structured digital systems where **Architecture, Infrastructure, Narrative, and Execution** align. The aim is to understand how decentralized systems coordinate intelligence and value in a post-human economy.
 
 ---
 
-## 👤 Identity
-Sora operates as an independent conceptual architect exploring architecture-first approaches to decentralized systems.
-
-
-
+## 👤 Identity & Proof of Work
+**Sora (Sora Onchain)** operates as an independent conceptual architect. 
+- **Twitter:** [@SoraOnchain](https://x.com/SoraOnchain)
+- **Technical Footprint:** Active in Gnosis, Optimism, and Solana governance/technical forums.
