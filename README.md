@@ -6,58 +6,75 @@ Exploring the intersection of **AI Agents**, **Agentic Economy**, and **Producti
 
 ---
 
-## 🏆 Academic & Community Proof of Work
-**Mancer x Superteam Indonesia: Web3 Career Scholarship (Phase 1 Winner)**
-- **Scholarship Status:** `PHASE 1 QUALIFIED` 🏅
-- **Multi-Chain Excellence:** High-scoring performance across both **SVM** and **EVM** technical audits.
-- **Community Engagement:** Ranked **Top 5** on the Mancer Daily Quest Leaderboard (901+ XP).
+## 🏆 Academic & Governance Proof of Work
+
+### Mancer x Superteam Indonesia: Web3 Career Scholarship (Phase 1 Winner)
+<p align="center">
+  <img src="assets/proof/Leaderboard_Daily_Quest.png" width="400" title="Top 5 Leaderboard">
+  <img src="assets/proof/Solana_Final_Test.png" width="400" title="Solana Score 95/100">
+</p>
+
+- **Status:** `PHASE 1 QUALIFIED` 🏅
+- **Technical Excellence:** Perfect scores in **Security (10/10)** and **Functionality (30/30)** on the Solana Final Test.
+
+### GnosisDAO Governance & Contribution
+<p align="center">
+  <img src="assets/proof/Gnosis_DAO.png" width="600" title="GnosisDAO Governance Activity">
+</p>
+
+- **Active Governance:** Contributor to GnosisDAO forums, focusing on **AI Agent Infrastructure (A2A)** and **RWA Data Layers**.
+- **Certified Expertise:** Successfully completed the Gnosis Advanced User tutorial (on-chain verification pending).
 
 ---
 
-## 🧪 The Agentic Lab
-A dedicated workspace for documenting the **Agentic Economy**—designing decentralized systems where autonomous AI agents manage capital and real-world data.
+## 🧪 The Agentic Lab: "The Great Nine"
+*A centralized workspace for documenting decentralized coordination and autonomous execution.*
 
-### 📂 Active Project Portfolio: "The Great Nine"
+### 🥷 ASSASSIN (Observability & Identity)
+<p align="center">
+  <img src="assets/proof/terminal-assassin.png" width="600" alt="Assassin Identity On-Chain">
+</p>
 
-#### 🥷 ASSASSIN (Observability & Identity)
-**On-Chain reputation & agentic reasoning tracking layer.**
 - **Status:** `DEPLOYED & LIVE` (Genesis Identity Minted 👤)
 - **Network:** [Gnosis Chiado](https://gnosis-chiado.blockscout.com/)
-- **Proof of Work:** - **Master Registry:** [`0xe3Ad9F...4FdD`](https://gnosis-chiado.blockscout.com/address/0xe3Ad9F5D120B7c2C7B413D538127d2CD7A884FdD)
-  - **Identity Proof:** [`Grand_Assassin_Sora`](https://gnosis-chiado.blockscout.com/tx/0xfc3a6e25822bbe1629670ae1ead88297c9057e3a73acc0e01876f5b2c38260d2)
-- **Function:** Verifiable "Path of Destiny" linking on-chain XP to agentic capabilities.
+- **Identity Proof:** [`Grand_Assassin_Sora`](https://gnosis-chiado.blockscout.com/tx/0xfc3a6e25822bbe1629670ae1ead88297c9057e3a73acc0e01876f5b2c38260d2)
 
-#### ⚡ Rapid Dash (Solana Crowdfunding)
-**High-performance crowdfunding logic for the Mancer Scholarship.**
-- **Status:** `TECHNICAL EXCELLENCE` (Final Score: 95/100)
-- **Network:** Solana Devnet
-- **Repository:** [`rapidDash-crowdfunding-contracts`](https://github.com/soraonchain-byte/rapidDash-crowdfunding-contracts)
-- **Audit Highlights:** Perfect scores in **Functionality (30/30)** and **Security (10/10)**. Featured use of PDAs and `checked_add` protection.
+### 🔒 Time-Locked Vault (EVM Security)
+<p align="center">
+  <img src="assets/proof/Ethereum_Final_Test.png" width="500" title="EVM Score 85/100">
+</p>
 
-#### 🔒 Time-Locked Vault (EVM Security)
-**Secure fund management with cryptographic time-constraints.**
-- **Status:** `VERIFIED SECURITY` (Final Score: 85/100)
-- **Network:** EVM (Foundry Framework)
-- **Repository:** [`time-locked-vault`](https://github.com/soraonchain-byte/time-locked-vault)
-- **Audit Highlights:** **30/30 Functionality** & **10/10 Security**. Implementation of Checks-Effects-Interactions pattern and robust validation for unlock timestamps.
+- **Audit:** **30/30 Functionality** | **10/10 Security**. Developed using Foundry.
 
-#### 🐎 Vanguard (Active RWA Agent)
-**Equestrian RWA Infrastructure & Autonomous Narrative Engine.**
-- **Status:** `DEPLOYED & ACTIVE` 💓
-- **Network:** Gnosis Chiado
+### 🐎 Vanguard (Active RWA Agent)
 - **Identity:** [`vanguard.openclaw.gno`](https://gnosis-chiado.blockscout.com/address/0xCE7879A11b8b5015D5f40837114683b612579F54)
+- **Mission:** Bridging equestrian biometrics with autonomous on-chain narrative.
 
 ---
 
-## 🔬 Experimental Frameworks & Metrics
-- **Solana Mastery:** Proficient in **Anchor**, PDA architecture, and account validation.
-- **EVM Mastery:** Expert in **Foundry**, secure design patterns (CEI), and gas-optimized smart contracts.
-- **Leaderboard Performance:** Consistently maintained **Top 5** position in high-intensity Web3 quests.
+## 👥 Community Reputation & Verified Roles
+
+<p align="center">
+  <img src="assets/proof/Profil_discord_mancer.png" width="400" title="Mancer Certified OG">
+  <img src="assets/proof/Profil_discord_gnosis.png" width="400" title="Community Verified Role">
+</p>
+
+- **Mancerian OG:** Secured the prestigious **OG Role** within the Mancer ecosystem, recognizing early contribution and technical proficiency.
+- **Discord Footprint:** Actively engaged in high-level technical discussions across Gnosis and Solana community hubs.
 
 ---
 
-## 👤 Identity & Technical Footprint
-**Sora (Sora Onchain)** operates as an independent conceptual architect. 
+## 🔬 Experimental Frameworks
+- **SVM Mastering:** Anchor, PDAs, and Cross-Program Invocations (CPIs).
+- **EVM Mastering:** Foundry, Checks-Effects-Interactions (CEI), and Gas Optimization.
+
+---
+
+## 👤 Identity & Digital Footprint
 - **Twitter:** [@SoraOnchain](https://x.com/SoraOnchain)
 - **Basename:** `soraonchain.base.eth`
-- **Technical Footprint:** Active contributor in Gnosis, Base, and Solana ecosystem governance.
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soraonchain-byte&color=blueviolet" alt="Profile Views">
+</p>
