@@ -64,6 +64,34 @@ Exploring the intersection of **AI Agents**, **Agentic Economy**, and **Producti
 
 ---
 
+## 🛡️ Case Study: Angelica v3.1 - Autonomous Trading Agent
+**Infrastructure-as-Code & Agentic Workflows**
+
+A high-fidelity implementation of an autonomous agent designed to navigate the Hyperliquid ecosystem. This project demonstrates the bridge between architectural design and persistent, cloud-native execution.
+
+### 🔑 Key Architectural Features
+- **Cloud-Native Persistence:** Migrated from local execution to **Railway.app (Singapore Data Center)**, achieving 24/7 uptime and sub-100ms latency to exchange endpoints.
+- **Agentic Intelligence:** Powered by **Groq LPU Inference**, allowing the agent to perform real-time narrative and trend analysis on high-volatility assets (HYPE, DYDX).
+- **Secure CI/CD Pipeline:** - Automated deployment via GitHub Actions/Railway triggers.
+    - Zero-trust environment variable management (no physical `.env` files in production).
+    - Hardened `.gitignore` protocols for private key protection.
+- **Protocol Integration:** Built on the **CCXT** framework for standardized exchange interaction and **Python-Dotenv** for modular configuration.
+
+### 📈 Operational Parameters
+- **Market Screening:** 24-hour rolling window trend analysis.
+- **Decision Engine:** LLM-based sentiment and technical data synthesis.
+- **Risk Management:** Automated position monitoring and one-cycle patching for secure execution.
+
+> *“Clarity in architecture leads to security in execution.”* — Deployed March 2026.
+
+
+### 🔗 Evidence & Verification
+- **Codebase:** [angelica-autonomous-agent](https://github.com/soraonchain-byte/angelica-autonomous-agent) *(Private Access)*
+- **On-Chain Activity:** [Hyperliquid Explorer - Wallet Address](https://stats.hyperliquid.xyz/address/MASUKKAN_WALLET_ADDRESS_ANDA_DI_SINI)
+- **Deployment Status:** ![Railway Deployment](https://img.shields.io/badge/Railway-Active-success?style=flat-square&logo=railway)
+
+> *“Clarity in architecture leads to security in execution.”* — Deployed March 2026.
+
 ## 🔬 Experimental Frameworks
 - **SVM Mastering:** Anchor, PDAs, and Cross-Program Invocations (CPIs).
 - **EVM Mastering:** Foundry, Checks-Effects-Interactions (CEI), and Gas Optimization.
