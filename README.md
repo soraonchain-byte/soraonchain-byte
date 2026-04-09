@@ -1,3 +1,5 @@
+<img width="5008" height="952" alt="Banner-Sora" src="https://github.com/user-attachments/assets/be9ad8b4-fc45-4c12-8b43-4d2c789818b2" />
+
 # 🏛️ SORA | Web3 Architect & Narrative Conceptualist
 
 Exploring the intersection of **AI Agents**, **Agentic Economy**, and **Productive RWA** through architecture-led experimentation.
